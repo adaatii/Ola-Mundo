@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro repositório de teste 
+# Olá, Mundo!
+ Primeiro repositório 
+
+ Repositório criado durante uma aula online
